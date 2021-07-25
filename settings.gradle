@@ -1,0 +1,2 @@
+rootProject.name = "khim1306_a3_2"
+include ':app'

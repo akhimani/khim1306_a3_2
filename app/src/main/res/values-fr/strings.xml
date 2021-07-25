@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">khim1306_a3_2</string>
+<string name="hello_message">Bonjour!</string>
+<string name="ButtonText">Je suis un bouton</string>
+<string name="login_text">connexion</string>
+<string name="login_hint">identifiant</string>
+<string name="password_text">"le mot de passe"</string>
+<string name="radio_button_text">Bouton radio</string>
+<string name="switch_text">Qu\'est-ce que cela fait?</string>
+<string name="checkbox_text">Case à cocher</string>
+<string name="image_button_description">Bouton de l\'appareil photo</string>
+<string name="ok_button">Oui</string>
+<string name="cancel_button">Non</string>
+<string name="dialog_title">Terminer l\'activité</string>
+<string name="dialog_message">Voulez-vous terminer l\'activité?</string>
+<string name="chatButton">Démarrer la discussion</string>
+<string name="sendButtonText">Envoyer</string>
+<string name="outgoing_call">Appel sortant</string>
+<string name="incoming_call">Appel entrant</string>
+<string name="action_one">Un</string>
+<string name="action_two">Deux</string>
+<string name="action_three">Trois</string>
+<string name="test_toolbar">Barre d\'outils de test</string>
+<string name="about_menu">À propos</string>
+<string name="about_toast_text">Version 1.0, par Aamir Khimani</string>
+<string name="mail_button_message">Cliquez sur le bouton de messagerie</string>
+<string name="action_one_message">Vous avez sélectionné l\'élément 1</string>
+<string name="action_two_message">Voulez-vous revenir?</string>
+<string name="action_two_dialog_title">Voulez-vous mettre à jour le texte ?</string>
+<string name="title_activity_test_toolbar">Barre d\'outils de test</string>
+<string name="mail_icon_description">Mail Icon</string>
+</resources>

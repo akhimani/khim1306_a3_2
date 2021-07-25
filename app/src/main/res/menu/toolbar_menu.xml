@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_one"
+        android:icon="@drawable/chicken"
+        android:orderInCategory="101"
+        android:title="@string/action_one"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_two"
+        android:icon="@drawable/sheep2"
+        android:orderInCategory="102"
+        android:title="@string/action_two"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_three"
+        android:icon="@drawable/cat"
+        android:orderInCategory="103"
+        android:title="@string/action_three"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/about_menu"
+        android:enabled="true"
+        android:orderInCategory="104"
+        android:title="@string/about_menu"
+        android:visible="true"
+        app:showAsAction="never" />
+</menu>
